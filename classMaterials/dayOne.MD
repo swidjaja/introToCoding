@@ -1,5 +1,11 @@
 # Day 1
 
+## Some Administrative stuff
+- Verify that everyone already accept the invitation to classroom and can receive e-mail on class announcement
+- Go over the following
+  - What will we cover
+  - What will the project look like
+
 ## Ensure that the following are available on everyone's chromebook
 - Google Drive
 - Visual Studio Code
