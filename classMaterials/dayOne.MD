@@ -1,12 +1,17 @@
 # Day 1
 
+## Ensure that the following are available on everyone's chromebook
+- Google Drive
+- Visual Studio Code
+
 ## Go over Visual Studio Code
 - Navigating directory
 - Adding new file
 - Editing file
 - Saving file
 
-## Create new folder in Google Drive for backing up works
+## Go over Google Drive
+### Create new folder in Google Drive for backing up works
 - We will create a new folder called `coding-class`
 
 ## Go over how to backup works at the end of class to Google Drive
