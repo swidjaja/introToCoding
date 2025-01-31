@@ -7,3 +7,4 @@
   
 ## Misc Materials
 - [Sample for HTML project](./sample/html/index.html)
+- [Blank HTML file template](./templates/index.html)
